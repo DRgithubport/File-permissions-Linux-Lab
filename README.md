@@ -19,7 +19,7 @@ This Linux file permissions project involves exploring and managing access contr
 
 <p align="center">
 Check file and directory details: <br/>
-<img src="https://github.com/DRgithubport/File-permissions-Linux-Lab/blob/98b6071d1b5d10bfb8efdc58344903cd6d3812d9/2nd%20pic.png" height="50%" width="50%" alt="Linux Lab steps"/>
+<img src="https://github.com/DRgithubport/File-permissions-Linux-Lab/blob/afcb32399510febf465aefe1700552a39a6e2868/first%20pic%20.jpg" height="50%" width="50%" alt="Linux Lab steps"/>
 <br />
 <br />
 Select the disk:  <br/>
