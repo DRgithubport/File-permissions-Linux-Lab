@@ -19,11 +19,11 @@ This Linux file permissions project involves exploring and managing access contr
 
 <p align="center">
 Check file and directory details: <br/>
-<img src="https://github.com/DRgithubport/File-permissions-Linux-Lab/blob/afcb32399510febf465aefe1700552a39a6e2868/first%20pic%20.jpg" height="50%" width="50%" alt="Linux Lab steps"/>
+<img src="https://github.com/DRgithubport/File-permissions-Linux-Lab/blob/afcb32399510febf465aefe1700552a39a6e2868/first%20pic%20.jpg" height="50%" width="50%" />
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DRgithubport/File-permissions-Linux-Lab/blob/27c6144c7077414ff8bc9d3806116d20c14626ad/2nd%20pic.png" height="50%" width="50%"/>
 <br />
 <br />
 Enter the number of passes: <br/>
