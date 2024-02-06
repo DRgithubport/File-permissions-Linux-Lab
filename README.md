@@ -70,7 +70,6 @@ The first two lines of the screenshot display the commands I entered, and the ot
 
 <h4>My organization only wants the researcher2 user to have access to the drafts directory and its contents. This means that no one other than researcher2 should have execute permissions.<br /><h4/>
 
-<br />
 The following code demonstrates how I used Linux commands to change the permissions:<br />
 <img src="https://github.com/DRgithubport/File-permissions-Linux-Lab/blob/f6ca1fc0776a511a4cdfbb23226a2215c87b47fb/4th%20pic.png" height="80%" width="80%"/> <br />
 <br />
