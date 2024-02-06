@@ -27,7 +27,7 @@ Select the disk:  <br/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DRgithubport/File-permissions-Linux-Lab/blob/cb5ae4c52971aaa7658ee1267cc1aec06cb31350/3rd%20pic.png" height="50%" width="50%"/>
 <br />
 <br />
 Confirm your selection:  <br/>
