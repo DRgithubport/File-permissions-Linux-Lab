@@ -19,7 +19,7 @@ This Linux file permissions project involves exploring and managing access contr
 
 <p align="center">
 Check file and directory details: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+[first pic ](https://github.com/DRgithubport/File-permissions-Linux-Lab/assets/159063432/1ed41d85-5a1c-434b-b87d-b2a9e371cded)
 <br />
 <br />
 Select the disk:  <br/>
